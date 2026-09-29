@@ -24,18 +24,6 @@ The goal of this repository is to keep my Security+ study notes organized and ma
 
 New chapters will be added gradually as I progress through the material.
 
-📁 Repository Structure
-
-security-plus-notes/
-├── README.md
-├── chapters/
-│   ├── chapter-01/
-│   │   └── security-plus-chapter-01-notes.pdf
-│   ├── chapter-02/
-│   │   └── security-plus-chapter-02-notes.pdf
-│   └── ...
-└── security-plus-notes.pdf
-
 ⚠️ Disclaimer
 
 This is a personal study project and is not affiliated with, endorsed by, or sponsored by CompTIA.
